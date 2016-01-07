@@ -1,3 +1,7 @@
+Learning Rails
+==
+Aprendiendo Rails con un tutorial del proyecto RailsApps.
+
 == README
 
 This README would normally document whatever steps are necessary to get the
